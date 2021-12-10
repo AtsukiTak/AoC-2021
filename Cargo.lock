@@ -41,3 +41,11 @@ version = "0.1.0"
 [[package]]
 name = "advent-of-code-2021-day05-2"
 version = "0.1.0"
+
+[[package]]
+name = "advent-of-code-2021-day06-1"
+version = "0.1.0"
+
+[[package]]
+name = "advent-of-code-2021-day06-2"
+version = "0.1.0"

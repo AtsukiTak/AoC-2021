@@ -9,5 +9,10 @@ members = [
   "day04-1",
   "day04-2",
   "day05-1",
-  "day05-2"
+  "day05-2",
+  "day06-1",
+  "day06-2"
 ]
+
+[profile.release]
+overflow-checks = true
