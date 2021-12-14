@@ -17,7 +17,9 @@ members = [
   "day08/part1",
   "day08/part2",
   "day09/part1",
-  "day09/part2"
+  "day09/part2",
+  "day10/part1",
+  "day10/part2"
 ]
 
 [profile.release]
